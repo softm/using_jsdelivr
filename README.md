@@ -12,6 +12,7 @@
   - https://cdn.jsdelivr.net/gh/softm/jsdelivr@v0.0.2/loaderjs/bar.js
   - https://www.jsdelivr.com/features
   - https://help.github.com/en/articles/changing-a-remotes-url
+  - https://www.whatwant.com/377
 
 ### Flow
   1. Fock jsdelivr : https://github.com/jsdelivr/jsdelivr
